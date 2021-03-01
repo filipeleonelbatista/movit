@@ -64,7 +64,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
     <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
   </a>
 </p>
-<br />
 <p align="center">
     Desenvolvido 💜 por Filipe Batista 
 </p>
